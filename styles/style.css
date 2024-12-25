@@ -1,0 +1,238 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background: #07081A;
+}
+
+.first {
+    display: flex;
+    padding: 28px 200px 0px 200px;
+    border-bottom: 1px solid #261C51;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 64px;
+}
+
+.second {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 1440px;
+    width: 100%;
+}
+
+.third {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1040px;
+    width: 100%;
+}
+
+.four {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    max-width: 99px;
+    width: 100%;
+}
+
+.colors {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px; 
+}
+
+.five {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    gap: 16px;
+}
+
+.color {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px; 
+}
+
+.cursor_home {
+    color: #8CE900;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+}
+
+.main_conteiner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main_div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1040px;
+    width: 100%;
+}
+
+.best {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 52px; 
+}
+
+.bettwen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 64px;
+    margin-bottom: 200px;
+}
+
+
+.div_one {
+    display: flex;
+    justify-content: space-between;
+    background-color: #242642;
+    padding: 40px 72px;
+    max-width: 1040px;
+    width: 100%;
+}
+
+.div_styles {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    max-width: 168px;
+    width: 100%;
+}
+
+.style_content {
+    color: #8CE900;
+    font-family: Inter;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 60px;
+}
+
+.project {
+    color: #C0C0C0;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px; 
+}
+
+.last_div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 64px;
+}
+
+.class_div {
+    display: flex;
+    align-items: center;
+    gap: 254px;
+    max-width: 1040px;
+    width: 100%;
+}
+
+.logomark {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    max-width: 264px;
+    width: 100%;
+}
+
+.image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+    max-width: 99px;
+    width: 100%;
+}
+
+.cloudo {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+}
+
+.design {
+    color: #C0C0C0;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; 
+}
+
+.happy_div {
+    display: flex;
+    max-width: 84px;
+    max-height: 184px;
+    width: 100%;
+}
+
+.happy {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 16px;
+}
+
+.Navi {
+    color: #8CE900;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+}
+
+.Simple {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+}
+
+.guide {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 16px;
+    max-width: 186px;
+    width: 100%;
+}
